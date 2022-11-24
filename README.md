@@ -21,7 +21,7 @@ Most of the BST operations (e.g., search, max, min, insert, delete.. etc) take O
 4. Every path from a node (including root) to any of its descendants NULL nodes has the same number of black nodes.
 5. All leaf nodes are black nodes.
 
-![photo_2022-11-24_18-20-54.jpg](Red-Black%20Trees%20d4676bde969e4d71b9e80299971ed9a1/photo_2022-11-24_18-20-54.jpg)
+![photo_2022-11-24_18-20-54.jpg](photo_2022-11-24_18-20-54.jpg)
 
 ### Inserting an element into a Red-Black Tree :
 
@@ -57,7 +57,7 @@ In left-rotation, the arrangement of the nodes on the right is transformed into 
 11) p[x] <--y
 ```
 
-![photo_2022-11-24_18-22-26.jpg](Red-Black%20Trees%20d4676bde969e4d71b9e80299971ed9a1/photo_2022-11-24_18-22-26.jpg)
+![photo_2022-11-24_18-22-26.jpg](photo_2022-11-24_18-22-26.jpg)
 
 ### 2) Right Rotation -
 
@@ -79,19 +79,19 @@ In right-rotation, the arrangement of the nodes on the left is transformed into 
 11) p[x] <--y
 ```
 
-![photo_2022-11-24_18-23-07.jpg](Red-Black%20Trees%20d4676bde969e4d71b9e80299971ed9a1/photo_2022-11-24_18-23-07.jpg)
+![photo_2022-11-24_18-23-07.jpg](photo_2022-11-24_18-23-07.jpg)
 
 ### 3) Left-Right Rotation -
 
 In left-right rotation, the arrangements are first shifted to the left and then to the right.
 
-![photo_2022-11-24_18-23-59.jpg](Red-Black%20Trees%20d4676bde969e4d71b9e80299971ed9a1/photo_2022-11-24_18-23-59.jpg)
+![photo_2022-11-24_18-23-59.jpg](photo_2022-11-24_18-23-59.jpg)
 
 ### 4) Right-Left Rotation -
 
 In left-right rotation, the arrangements are first shifted to the left and then to the right.
 
-![photo_2022-11-24_18-24-50.jpg](Red-Black%20Trees%20d4676bde969e4d71b9e80299971ed9a1/photo_2022-11-24_18-24-50.jpg)
+![photo_2022-11-24_18-24-50.jpg](photo_2022-11-24_18-24-50.jpg)
 
 ### Insertion Algorithm :
 
@@ -120,7 +120,7 @@ else exchange then left and right elements to make it balance.
 color(root)← Black
 ```
 
-![photo_2022-11-24_18-24-55.jpg](Red-Black%20Trees%20d4676bde969e4d71b9e80299971ed9a1/photo_2022-11-24_18-24-55.jpg)
+![photo_2022-11-24_18-24-55.jpg](photo_2022-11-24_18-24-55.jpg)
 
 ### Applications of Red-Black Trees :
 
