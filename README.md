@@ -88,14 +88,14 @@ In right-rotation, the arrangement of the nodes on the left is transformed into 
 In left-right rotation, the arrangements are first shifted to the left and then to the right.
 <!-- 
 ![photo_2022-11-24_18-23-59.jpg](photo_2022-11-24_18-23-59.jpg) -->
-<img src="photo_2022-11-24_18-23-59.jpg" height="300" width="500">
+<img src="photo_2022-11-24_18-23-59.jpg" height="300" width="600">
 
 ### 4) Right-Left Rotation -
 
 In left-right rotation, the arrangements are first shifted to the left and then to the right.
 <!-- 
 ![photo_2022-11-24_18-24-50.jpg](photo_2022-11-24_18-24-50.jpg) -->
-<img src="photo_2022-11-24_18-24-50.jpg" height="300" width="500">
+<img src="photo_2022-11-24_18-24-50.jpg" height="300" width="600">
 
 ### Insertion Algorithm :
 
