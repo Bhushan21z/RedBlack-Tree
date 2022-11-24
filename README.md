@@ -56,8 +56,9 @@ In left-rotation, the arrangement of the nodes on the right is transformed into 
 10) left[y] <--x //put x on y's left.
 11) p[x] <--y
 ```
-
-![photo_2022-11-24_18-22-26.jpg](photo_2022-11-24_18-22-26.jpg)
+<!-- 
+![photo_2022-11-24_18-22-26.jpg](photo_2022-11-24_18-22-26.jpg) -->
+<img src="photo_2022-11-24_18-22-26.jpg" height="300" width="500">
 
 ### 2) Right Rotation -
 
@@ -78,20 +79,23 @@ In right-rotation, the arrangement of the nodes on the left is transformed into 
 10) right[y] <--x //put x on y's right.
 11) p[x] <--y
 ```
-
-![photo_2022-11-24_18-23-07.jpg](photo_2022-11-24_18-23-07.jpg)
+<!-- 
+![photo_2022-11-24_18-23-07.jpg](photo_2022-11-24_18-23-07.jpg) -->
+<img src="photo_2022-11-24_18-23-07.jpg" height="300" width="500">
 
 ### 3) Left-Right Rotation -
 
 In left-right rotation, the arrangements are first shifted to the left and then to the right.
-
-![photo_2022-11-24_18-23-59.jpg](photo_2022-11-24_18-23-59.jpg)
+<!-- 
+![photo_2022-11-24_18-23-59.jpg](photo_2022-11-24_18-23-59.jpg) -->
+<img src="photo_2022-11-24_18-23-59.jpg" height="300" width="500">
 
 ### 4) Right-Left Rotation -
 
 In left-right rotation, the arrangements are first shifted to the left and then to the right.
-
-![photo_2022-11-24_18-24-50.jpg](photo_2022-11-24_18-24-50.jpg)
+<!-- 
+![photo_2022-11-24_18-24-50.jpg](photo_2022-11-24_18-24-50.jpg) -->
+<img src="photo_2022-11-24_18-24-50.jpg" height="300" width="500">
 
 ### Insertion Algorithm :
 
@@ -119,8 +123,9 @@ RotateRight(root,p[p[key]])
 else exchange then left and right elements to make it balance.
 color(root)← Black
 ```
-
-![photo_2022-11-24_18-24-55.jpg](photo_2022-11-24_18-24-55.jpg)
+<!-- 
+![photo_2022-11-24_18-24-55.jpg](photo_2022-11-24_18-24-55.jpg) -->
+<img src="photo_2022-11-24_18-24-55.jpg" height="300" width="500">
 
 ### Applications of Red-Black Trees :
 
