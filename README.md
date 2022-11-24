@@ -21,7 +21,7 @@ Most of the BST operations (e.g., search, max, min, insert, delete.. etc) take O
 4. Every path from a node (including root) to any of its descendants NULL nodes has the same number of black nodes.
 5. All leaf nodes are black nodes.
 
-![photo_2022-11-24_18-20-54.jpg](photo_2022-11-24_18-20-54.jpg)
+<img src="photo_2022-11-24_18-20-54.jpg" height="300" width="300">
 
 ### Inserting an element into a Red-Black Tree :
 
